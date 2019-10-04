@@ -1,3 +1,4 @@
+
 # passengers = {
 # suite_a: "Amanda Presley", 
 # suite_b: "Seymour Hoffman", 
@@ -16,4 +17,3 @@ def select_winner(passengers)
 
   winner 
 end
- 
