@@ -14,7 +14,7 @@ describe "#happy_birthday" do
 end
 
 ## BONUS ##
-## Change "xit" to "it" in the test block to enable
+## Change "it" to "it" in the test block to enable
 describe "#age_appropriate_birthday" do
   xit "only prints the birthday greeting if the birthday kid 12 or younger" do
     birthday_kids = {
